@@ -1,0 +1,9 @@
+{
+	"name": "MyNewDatafactory007",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7881747-b82e-4287-832a-7cc5f22105d1",
+		"tenantId": "2d465873-12b3-4800-85c8-1567740a851a"
+	}
+}
